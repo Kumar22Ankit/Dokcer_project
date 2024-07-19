@@ -11,7 +11,6 @@ rock-paper-scissors-game/
 ├── Dockerfile
 └── game.py
 
-
 - `Dockerfile`: The Docker configuration file used to create the Docker image.
 - `game.py`: The Python script that contains the Rock, Paper, Scissors game logic.
 
@@ -29,4 +28,7 @@ First, clone the repository to your local machine:
 ```sh
 git clone https://github.com/yourusername/rock-paper-scissors-game.git
 cd rock-paper-scissors-game
+
+License
+This project is licensed under the MIT License. See the LICENSE file for details.
 
