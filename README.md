@@ -28,6 +28,7 @@ First, clone the repository to your local machine:
 ```sh
 git clone https://github.com/yourusername/rock-paper-scissors-game.git
 cd rock-paper-scissors-game
+```
 
 License
 This project is licensed under the MIT License. See the LICENSE file for details.
