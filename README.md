@@ -21,6 +21,9 @@ rock-paper-scissors-game/
 
 ## Getting Started
 
+## Docker Image
+docker pull ankit22kumar/rock-paper-scissors-game
+
 ### Clone the Repository
 
 First, clone the repository to your local machine:
